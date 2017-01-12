@@ -4,7 +4,7 @@
 
 - Lugar: SistemasUNI
 - Horario: MARTES y JUEVES DE 16 a 19 Horas
-- Inicio: 12-ENE-2017
+- Inicio: 19-ENE-2017
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
 - Programa: http://www.sistemasuni.edu.pe/dmodulos/JavaveloperCC.html
 - Contenido: http://www.sistemasuni.edu.pe/dcursos/cursoPjava.html
