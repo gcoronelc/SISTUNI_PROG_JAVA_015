@@ -1,5 +1,7 @@
 package pe.egcc.genioapp;
 
+import pe.egcc.genioapp.view.MainView;
+
 /**
  *
  * @author Gustavo Coronel
@@ -7,6 +9,7 @@ package pe.egcc.genioapp;
 public class GenioApp {
 
   public static void main(String[] args) {
+    MainView.main(args);
     
   }
   
