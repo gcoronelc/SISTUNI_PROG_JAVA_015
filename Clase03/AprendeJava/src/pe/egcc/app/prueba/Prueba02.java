@@ -11,7 +11,7 @@ public class Prueba02 {
   public static void main(String[] args) {
     
     Clase5 bean = new Clase5();
-    System.out.println("8 + 5 = " + bean.sumar(8, 5));
+    System.out.println("8 + 6 = " + bean.sumar(8, 6));
     
   }
   
